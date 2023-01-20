@@ -33,5 +33,12 @@
       "icon": "ios-volume-medium",
       "path": "../../assets/sounds/siuu_5.m4a",
       "description": "When in doubt, always go full adam...maybe"
+    },
+    {
+      "id": 6,
+      "title": "Bom, Bom, Siuu",
+      "icon": "ios-volume-medium",
+      "path": "../../assets/sounds/siuu_6.m4a",
+      "description": "The only chant you'll ever need! - Jeppe B"
     }
 ]

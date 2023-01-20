@@ -18,7 +18,6 @@ const SiuuContainer = ({ audio, title, icon, description }) => {
 
       setTimeout(()=> {
         setIsPlaying(false)
-
       }, 1500)
   }
 

@@ -5,7 +5,10 @@ const Header = () => {
   return(
     <View style={styles.container}>
       <Text style={styles.title}>
-        SiuuApp
+        The Siuu network
+      </Text>
+      <Text style={styles.subTitle}>
+        One siuu at the time
       </Text>
     </View>
   )
@@ -23,6 +26,10 @@ const styles = StyleSheet.create({
     fontSize: 24,
     lineHeight: 24,
     fontWeight: '400'
+  },
+  subTitle:{
+    fontSize: 12,
+    lineHeight: 12
   }
 })
 

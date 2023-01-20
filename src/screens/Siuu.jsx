@@ -1,17 +1,18 @@
-import React, { useEffect } from 'react'
-import { View, StyleSheet, FlatList, Text } from 'react-native'
+import React from 'react'
+import { View, StyleSheet, FlatList } from 'react-native'
 import Header from '../components/Header'
 import SiuuContainer from '../components/SiuuContainer'
 import SiuuData from '../siuuData/Data.json'
 
-const Home = () => {
+const Siuu = () => {
 
   const audioTracks = [
     require('../../assets/sounds/siuu_3.m4a'),
     require('../../assets/sounds/siuu_2.m4a'),
     require('../../assets/sounds/siuu_1.m4a'),
     require('../../assets/sounds/siuu_4.m4a'),
-    require('../../assets/sounds/siuu_5.m4a')
+    require('../../assets/sounds/siuu_5.m4a'),
+    require('../../assets/sounds/siuu_6.m4a')
   ]
   
   const renderItem = ({ item }) => {
@@ -36,4 +37,4 @@ const styles = StyleSheet.create({
   }
 })
 
-export default Home
+export default Siuu
