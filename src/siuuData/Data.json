@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "title": "Standart Siuu",
+      "icon": "ios-volume-low",
+      "path": "../../assets/sounds/siuu_1.m4a",
+      "description": "This Siuu is pretty Siuu!"
+    },
+    {
+      "id": 2,
+      "title": "Hygge Siuu",
+      "icon": "ios-volume-low",
+      "path": "../../assets/sounds/siuu_2.m4a",
+      "description": "A hygge Siuu is commonly used amongst friends, colleagues and even family. This Siuu is well suited for a dinner party and / or a kæmpe mål."
+    },
+    {
+      "id": 3,
+      "title": "Aggressive Siuu",
+      "icon": "ios-volume-medium",
+      "path": "../../assets/sounds/siuu_3.m4a",
+      "description": "When you are ahead with five goals or drinks, this Siuu can be used, but be careful! Siuuuuuuuuuuuuuu."
+    },
+    {
+      "id": 4,
+      "title": "Mega Siuu",
+      "icon": "ios-volume-high",
+      "path": "../../assets/sounds/siuu_4.m4a",
+      "description": "A SIUU which is a bit more agrresive than the others, this Siuu is well suited for a situation where you scored a kæmpe mål!"
+    },
+    {
+      "id": 5,
+      "title": "Jaaaaaa taaaaakkkkkkk",
+      "icon": "ios-volume-medium",
+      "path": "../../assets/sounds/siuu_5.m4a",
+      "description": "When in doubt, always go full adam...maybe"
+    }
+]

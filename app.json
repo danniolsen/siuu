@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "danniolsen",
     "name": "siuu",
     "slug": "siuu",
     "version": "1.0.0",
@@ -18,13 +19,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.danniolsen.siuu"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.danniolsen.siuu"
     },
     "web": {
       "favicon": "./assets/favicon.png"
